@@ -2,8 +2,8 @@
 # UNIVERSIDADE FEDERAL DE PERNAMBUCO
 # DEPARTAMENTO DE ENGENHARIA DE PRODUÇÃO - DEP
 # PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA DE PRODUÇÃO - PPGEP
-# Discente: Eduardo da Silva
-# Orientadora: Profa. Maísa Mendonça Silva
+# Autor 1: Eduardo da Silva
+# Autor 2: Profa. Maísa Mendonça Silva
 
 
 # Carregar os pacotes necessários
