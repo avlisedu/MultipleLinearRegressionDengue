@@ -1,3 +1,5 @@
+Fonte: <https://proceedings.science/sbpo-2024/trabalhos/analise-da-interacao-entre-residuos-solidos-e-saneamento-na-incidencia-de-dengue?lang=pt-br>
+
 <h1>Análise da Relação entre Resíduos Sólidos, Saneamento Básico, Renda e Casos de Dengue no Brasil</h1>
 
 <p>No Brasil, a dengue, transmitida pelo vetor <em>Aedes aegypti</em>, é um grave problema de saúde pública. A urbanização desordenada, a gestão ineficiente de resíduos sólidos e a falta de saneamento básico agravam a situação, criando ambientes propícios para a reprodução do mosquito.</p>
