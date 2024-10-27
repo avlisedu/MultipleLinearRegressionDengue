@@ -52,11 +52,8 @@ ggpairs(dados_numericos)
 #stargazer(modelo, type = "html", title = "Tabela 4 - Resultados",
 #          out = "modelo.html")
 
-
 #Metricas de Avaliacao
-
 residuos <- residuals(modelo)
-
 # Calcular o RSE
 RSE <- sqrt(sum(residuos^2) / (length(residuos) - length(coef(modelo))))
 cat("Erro Padrão Residual (RSE):", RSE, "\n")
@@ -69,4 +66,3 @@ cat("Erro Quadrático Médio (MSE):", MSE, "\n")
 # Calcular o RMSE
 RMSE <- sqrt(MSE)
 cat("Raiz do Erro Quadrático Médio (RMSE):", RMSE, "\n")
-
