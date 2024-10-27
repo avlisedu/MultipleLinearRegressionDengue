@@ -66,3 +66,4 @@ cat("Erro Quadrático Médio (MSE):", MSE, "\n")
 # Calcular o RMSE
 RMSE <- sqrt(MSE)
 cat("Raiz do Erro Quadrático Médio (RMSE):", RMSE, "\n")
+
