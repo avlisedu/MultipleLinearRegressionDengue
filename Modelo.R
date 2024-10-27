@@ -53,37 +53,20 @@ ggpairs(dados_numericos)
 #          out = "modelo.html")
 
 
+#Metricas de Avaliacao
 
-
-
-
-
-
-
-
-
-
-
-
-
-# Obter os resíduos
 residuos <- residuals(modelo)
 
 # Calcular o RSE
 RSE <- sqrt(sum(residuos^2) / (length(residuos) - length(coef(modelo))))
-
+cat("Erro Padrão Residual (RSE):", RSE, "\n")
 # Calcular o MAE
 MAE <- mean(abs(residuos))
-
+cat("Erro Médio Absoluto (MAE):", MAE, "\n")
 # Calcular o MSE
 MSE <- mean(residuos^2)
-
+cat("Erro Quadrático Médio (MSE):", MSE, "\n")
 # Calcular o RMSE
 RMSE <- sqrt(MSE)
-
-# Exibir os resultados
-cat("Erro Padrão Residual (RSE):", RSE, "\n")
-cat("Erro Médio Absoluto (MAE):", MAE, "\n")
-cat("Erro Quadrático Médio (MSE):", MSE, "\n")
 cat("Raiz do Erro Quadrático Médio (RMSE):", RMSE, "\n")
 
