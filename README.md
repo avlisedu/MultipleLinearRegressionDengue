@@ -36,3 +36,10 @@
 </ul>
 
 <p>Essas ações são essenciais para o combate à dengue e para a melhoria da saúde pública no Brasil.</p>
+
+<h2>Imagem do Mosquito Aedes aegypti</h2>
+
+<p>Abaixo, uma imagem do mosquito <em>Aedes aegypti</em>, transmissor da dengue:</p>
+
+<img src="![image](https://github.com/user-attachments/assets/3da1de94-c670-46ac-ab49-d010373a85f2)
+" alt="Mosquito Aedes aegypti" width="300" height="200">
